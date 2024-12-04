@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/habot-app/static/css/main.88d8cb61.css",
+    "main.js": "/habot-app/static/js/main.4b87eb86.js",
+    "static/js/453.78f5fe06.chunk.js": "/habot-app/static/js/453.78f5fe06.chunk.js",
+    "static/media/bag.png": "/habot-app/static/media/bag.f0be732e1f0e63893d6e.png",
+    "static/media/cartoon.png": "/habot-app/static/media/cartoon.1de04f5bf8107829fe0e.png",
+    "index.html": "/habot-app/index.html",
+    "main.88d8cb61.css.map": "/habot-app/static/css/main.88d8cb61.css.map",
+    "main.4b87eb86.js.map": "/habot-app/static/js/main.4b87eb86.js.map",
+    "453.78f5fe06.chunk.js.map": "/habot-app/static/js/453.78f5fe06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88d8cb61.css",
+    "static/js/main.4b87eb86.js"
+  ]
+}
